@@ -16,7 +16,6 @@ This started out as a side project that I would work on during down time for Egg
 
 ## EPHS
 [EPHS](https://github.com/EPCompSci/EagleNation)
-
 This was my second large project of the class. I made a portion of the large EPHS (Eden Prairie High School) app I referred to as "TimePasser" that serves as the home screen for the app. It lists the current time down to the second, and says how many minutes there are until the current class ends / the next class starts. Developing this was quite a challenge as Eden Prairie High School has a few different types of schedules can be used, and adjusting times accordingly proved harder thn initially thought. Eventually the decision was made to switch it to a database-driven app, which served as a good introduction to databases for me. While developing TimePasser, I learned much about how Swift handles times and dates, and how to properly read, set, and change dates and times based on the internal clock of a device. 
 
 ## Stats Capstone Data Collector
