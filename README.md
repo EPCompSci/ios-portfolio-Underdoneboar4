@@ -2,7 +2,7 @@
 2018-2019 Portfolio for Blake Branvold
 
 ### About Me (Not an App)
-My name is Blake Branvold, and this is my portfolio of everything I made in my 2018-19 iOS class at Eden Prairie High School.
+My name is Blake Branvold, and this is my portfolio of everything I made in my 2018-2019 iOS class at Eden Prairie High School. You can download everything at once by downloading this portfolio, or you can view my projects individually by going to the links located below. Thank you for taking the time out of your day to read this.
 
 ### About Blake Branvold
 [About Blake Branvold](https://github.com/Underdoneboar4/About-Blake-Branvold)
