@@ -2,11 +2,11 @@
 2018-2019 Portfolio for Blake Branvold
 
 ### About Me (Not an App)
-My name is Blake Branvold, and this is my portfolio of everything I made
+My name is Blake Branvold, and this is my portfolio of everything I made in my 2018-19 iOS class at Eden Prairie High School.
 
 ### About Blake Branvold
 [About Blake Branvold](https://github.com/Underdoneboar4/About-Blake-Branvold)
-this is the very first app I made. It served as my introduction to outlet functions, action functions, labels, buttons, and the Assets folder. 
+this is the very first app I made. It displays different images and text when buttons are pressed. It served as my introduction to outlet functions, action functions, labels, buttons, and the Assets folder. 
 
 ### 5DiceRoller
 [5DiceRoller](https://github.com/Underdoneboar4/5DiceRoller)
