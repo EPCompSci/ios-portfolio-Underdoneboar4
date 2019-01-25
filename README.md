@@ -18,7 +18,7 @@ This is the project I spent the most time on. In the span of around 9 weeks, two
 
 ### FootballFinder
 [FootballFinder](https://github.com/Underdoneboar4/FootballFinder)
-This started out as a side project that I would work on during down time for Eggs with Legs. It takes the user's coordinates, and tells them the closest professional football team to them. My biggest area of learning in this side project involved permissions and the modifications to the Info.plist file needed for permissions to work. 
+This started out as a side project that I would work on during down time for Eggs with Legs. It takes the user's coordinates, and tells them the closest professional football team to them. My biggest area of learning in this side project involved permissions and the modifications to the Info.plist file needed for permissions to work. This project was also my introduction to location and coordinates
 
 ### EPHS
 [EPHS](https://github.com/EPCompSci/EagleNation)
@@ -35,7 +35,7 @@ This is the generic version of my Capstone app above. Upon opening, the user is 
 ### QuizMaker
 [QuizMaker](https://github.com/Underdoneboar4/QuizMaker)
 WARNING! THIS APP IS INCOMPLETE (barely)
-I wanted to make an app where a user could make their own multiple choice quizzes, where the answers would be displayed in the end. To add extra challenge, I also wanted this app to only be in one view, making me be more efficient with my code and variables. The user starts by entering how many questions they want to be asked, then will enter their questions and 4 possible answers per question. Then the screen goes nearly blank and is to be given to the quiz taker. The quiz taker is then to answer the questions that pop up. Sadly, there is some sort of logic error in my code that does not allow for a made quiz to be completed properly, but it is otherwise completely functional. The only restriction keeping this app from being finished is how much class time is left, which is none. I plan on someday revisiting this app and finally finishing it up.
+I wanted to make an app where a user could make their own multiple choice quizzes, where the answers would be displayed in the end. To add extra challenge, I also wanted this app to only be in one view, making me be more efficient with my code and variables. The user starts by entering how many questions they want to be asked, then will enter their questions and 4 possible answers per question. Then the screen goes nearly blank and is to be given to the quiz taker. The quiz taker is then to answer the questions that pop up. Sadly, there is some sort of logic error in my code that does not allow for a made quiz to be completed properly, but it is otherwise completely functional. The only restriction keeping this app from being finished is how much class time is left, which is none. I plan on someday revisiting this app and finally finishing it up. I learned quite a lot while developing this app. My challenge to myself to limit this app to one screen helped me find new ways to conserve screen space and selectively hide/show/repurpose labels and text fields. 
 
 ### LEDAlphabetMorse
 [LEDAlphabetMorse](https://github.com/Underdoneboar4/LEDAlphabetMorse)
