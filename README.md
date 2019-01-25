@@ -2,7 +2,7 @@
 2018-2019 Portfolio for Blake Branvold
 
 ### About Me (Not an App)
-My name is Blake Branvold, and this is my portfolio of everything I made in my 2018-2019 iOS class at Eden Prairie High School. You can download everything at once by downloading this portfolio, or you can view my projects individually by going to the links located below. Thank you for taking the time out of your day to read this.
+My name is Blake Branvold, and this is my portfolio of everything I made in my 2018-2019 iOS class at Eden Prairie High School. You can download everything at once (excluding two projects too large to fit, Eggs with Legs and EPHS) by downloading this portfolio, or you can view my projects individually by going to the links located below. Thank you for taking the time out of your day to look through some of my work.
 
 ### About Blake Branvold
 [About Blake Branvold](https://github.com/Underdoneboar4/About-Blake-Branvold)
@@ -18,7 +18,7 @@ This is the project I spent the most time on. In the span of around 9 weeks, two
 
 ### FootballFinder
 [FootballFinder](https://github.com/Underdoneboar4/FootballFinder)
-This started out as a side project that I would work on during down time for Eggs with Legs. It takes the user's coordinates, and tells them the closest professional football team to them. My biggest area of learning in this side project involved permissions and the modifications to the Info.plist file needed for permissions to work. This project was also my introduction to location and coordinates
+This started out as a side project that I would work on during down time for Eggs with Legs. It takes the user's coordinates, and tells them the closest professional football team to them. My biggest area of learning in this side project involved permissions and the modifications to the Info.plist file needed for permissions to work. This project was also my introduction to location and coordinates, and finding the closest football team when coordinates were used proved to be an interesting challenge.
 
 ### EPHS
 [EPHS](https://github.com/EPCompSci/EagleNation)
