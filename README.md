@@ -6,7 +6,7 @@ My name is Blake Branvold, and this is my portfolio of everything I made in my 2
 
 ### About Blake Branvold
 [About Blake Branvold](https://github.com/Underdoneboar4/About-Blake-Branvold)
-this is the very first app I made. It displays different images and text when buttons are pressed. It served as my introduction to outlet functions, action functions, labels, buttons, and the Assets folder. 
+This is the very first app I made. It displays different images and text when buttons are pressed. It served as my introduction to outlet functions, action functions, labels, buttons, and the Assets folder. 
 
 ### 5DiceRoller
 [5DiceRoller](https://github.com/Underdoneboar4/5DiceRoller)
