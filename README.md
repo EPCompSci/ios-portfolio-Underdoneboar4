@@ -35,6 +35,7 @@ WARNING! THIS APP IS INCOMPLETE (barely)
 I wanted to make an app where a user could make their own multiple choice quizzes, where the answers would be displayed in the end. To add extra challenge, I also wanted this app to only be in one view, making me be more efficient with my code and variables. The user starts by entering how many questions they want to be asked, then will enter their questions and 4 possible answers per question. Then the screen goes nearly blank and is to be given to the quiz taker. The quiz taker is then to answer the questions that pop up. Sadly, there is some sort of logic error in my code that does not allow for a made quiz to be completed properly, but it is otherwise completely functional. The only restriction keeping this app from being finished is how much class time is left, which is none. I plan on someday revisiting this app and finally finishing it up.
 
 ### LEDAlphabetMorse
+[LEDAlphabetMorse](https://github.com/Underdoneboar4/LEDAlphabetMorse)
 WARNING! THIS IS NOT AN IPHONE APP AND IS FOR ARDUINO
 This program is another one I made in my spare time. It takes a String, and when put in the WordEater method it blinks out the String in Morse Code on any connected LED you want. Morse Code was boiled down to dits and dots, according to a changeable TimeUnit.
 
