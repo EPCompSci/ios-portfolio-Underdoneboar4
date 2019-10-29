@@ -21,7 +21,10 @@ This is the project I spent the most time on. In the span of around 9 weeks, two
 This started out as a side project that I would work on during down time for Eggs with Legs. It takes the user's coordinates, and tells them the closest professional football team to them. My biggest area of learning in this side project involved permissions and the modifications to the Info.plist file needed for permissions to work. This project was also my introduction to location and coordinates, and finding the closest football team when coordinates were used proved to be an interesting challenge.
 
 ### EPHS
-[EPHS](https://github.com/EPCompSci/EagleNation)
+[EPHS](https://github.com/EPCompSci/EagleNation) 
+
+NOTE: Only people associated with the project have access. Please search for "EPHS Student" on the iOS App Store to see it
+
 This was my second large project of the class. I made a portion of the large EPHS (Eden Prairie High School) app I referred to as "TimePasser" that serves as the home screen for the app. It lists the current time down to the second, and says how many minutes there are until the current class ends / the next class starts. Developing this was quite a challenge as Eden Prairie High School has a few different types of schedules can be used, and adjusting times accordingly proved harder thn initially thought. Eventually the decision was made to switch it to a database-driven app, which served as a good introduction to databases for me. While developing TimePasser, I learned much about how Swift handles times and dates, and how to properly read, set, and change dates and times based on the internal clock of a device. I also learned how to compare times and set items into chronological order.
 
 ### Stats Capstone Data Collector
