@@ -57,5 +57,13 @@ Please note: the 2019-2020 session is still ongoing
 
 ### Brightside
 [Brightside](https://github.com/VarunSaini02/Brightside)
-This app was made with the intent to fulfill a class tradition. A few minutes before class ended, we would play a song that would end as the bell rang, as a way to be able to reach a proper stopping point. Last year, it was done manually. This app does it automatically, using notifications.
+This app was made with the intent to fulfill a class tradition. A few minutes before class ended, we would play a song that would end as the bell rang, as a way to be able to reach a proper stopping point. Last year, it was done manually. This app does it automatically, using notifications. The user can either add 
+
+### Metronome
+[Metronome](https://github.com/Underdoneboar4/Metronome)
+Metronome was made mostly for fun. It can detect BPM from someone tapping, play a gif and sound based on a selected BPM, and functions well, aside from higher BPM's making it so that playing the sound every beat doesn't work
+
+### Rush Hour
+[Rush Hour](https://github.com/VarunSaini02/Rush-Hour)
+Rush Hour is a work-in-progress simulation of the board game that goes by the same name
 
