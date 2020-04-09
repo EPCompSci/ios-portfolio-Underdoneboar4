@@ -56,6 +56,6 @@ This program is another one I made in my spare time. Through a series of prints 
 Please note: the 2019-2020 session is still ongoing
 
 ### Brightside
-[Brightside] (https://github.com/VarunSaini02/Brightside)
+[Brightside](https://github.com/VarunSaini02/Brightside)
 This app was made with the intent to fulfill a class tradition. A few minutes before class ended, we would play a song that would end as the bell rang, as a way to be able to reach a proper stopping point. Last year, it was done manually. This app does it automatically, using notifications.
 
