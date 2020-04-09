@@ -4,6 +4,8 @@
 ### About Me (Not an App)
 My name is Blake Branvold, and this is my portfolio of everything I made in my 2018-2019 (and 2019-2020) iOS and Advanced iOS Development classes at Eden Prairie High School. You can download everything at once (excluding projects too large to fit) by downloading this portfolio, or you can view my projects individually by going to the links located below. Thank you for looking through some of my work as a high schooler.
 
+## 2018-2019
+
 ### About Blake Branvold
 [About Blake Branvold](https://github.com/Underdoneboar4/About-Blake-Branvold)
 This is the very first app I made. It displays different images and text when buttons are pressed. It served as my introduction to outlet functions, action functions, labels, buttons, and the Assets folder. 
@@ -50,6 +52,10 @@ This program is another one I made in my spare time. It takes a String, and when
 WARNING! THIS IS NOT AN IPHONE APP AND IS IN JAVA
 This program is another one I made in my spare time. Through a series of prints and user imputs, it is able to determine the nominal value and a +-5% tolerance for an electrical resistor when the color bands of said resistor are given.
 
+## 2019-2020
+Please note: the 2019-2020 session is still ongoing
 
-
+### Brightside
+[Brightside] (https://github.com/VarunSaini02/Brightside)
+This app was made with the intent to fulfill a class tradition. A few minutes before class ended, we would play a song that would end as the bell rang, as a way to be able to reach a proper stopping point. Last year, it was done manually. This app does it automatically, using notifications.
 
