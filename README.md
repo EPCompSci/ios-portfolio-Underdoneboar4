@@ -67,3 +67,7 @@ Metronome was made mostly for fun. It can detect BPM from someone tapping, play 
 [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)
 Rush Hour is a work-in-progress simulation of the board game that goes by the same name
 
+### Bingo Card
+[Bingo Card](https://github.com/Underdoneboar4/-BingoCard)
+Bingo Card simulates a bingo card, as the name implies
+
