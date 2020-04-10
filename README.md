@@ -57,17 +57,17 @@ Please note: the 2019-2020 session is still ongoing
 
 ### Brightside
 [Brightside](https://github.com/VarunSaini02/Brightside)
-This app was made with the intent to fulfill a class tradition. A few minutes before class ended, we would play a song that would end as the bell rang, as a way to be able to reach a proper stopping point. Last year, it was done manually. This app does it automatically, using notifications and a song cut into bits that can fit in a notification. playing one after the other. The user can do things like set the song to play at a certain time (including a hard-coded end of class) or right away
+This app was made with the intent to fulfill a class tradition. A few minutes before class ended, we would play a song that would end as the bell rang, as a way to be able to reach a proper stopping point. Last year, it was done manually. This app does it automatically, using notifications and a song cut into bits that can fit in a notification. playing one after the other. The user can do things like set the song to play at a certain time (including a hard-coded end of class) or right away. I learned much more about Date objects through this project and got even more experience with them since my work on EPHS. Audio and permissions were other areas of learning for me during this project. 
 
 ### Metronome
 [Metronome](https://github.com/Underdoneboar4/Metronome)
-Metronome was made mostly for fun. It can detect BPM from someone tapping, play a gif and sound based on a selected BPM, and functions well, aside from higher BPM's making it so that playing the sound every beat doesn't work because of the sound's length
+Metronome was made mostly for fun. It can detect BPM from someone tapping, play a gif and sound based on a selected BPM, and functions well, aside from higher BPM's making it so that playing the sound every beat doesn't work because of the sound's length. I learned a lot about sound and timing in Xcode with this project, along with sliders, which I had never worked with before.
 
 ### Rush Hour
 [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)
-Rush Hour is a work-in-progress simulation of the board game that goes by the same name
+Rush Hour is a work-in-progress simulation of the board game that goes by the same name. This project will involve a lot of storyboard and controller interactions, as the game is based on many image views whose image signify which piece type is occupying a space.
 
 ### Bingo Card
 [Bingo Card](https://github.com/Underdoneboar4/-BingoCard)
-Bingo Card simulates a bingo card, as the name implies
+MY first solo project of the semester, Bingo Card simulates a bingo card, as the name implies. This was born form the Rush Hour project, and serves as more of a proof-of-concept at this stage due to the sheer volume of images needed to display numbers. My main learnings were with more behind-the-scenes work, like figuring out how to number every space properly and name variables well to keep it coherent.
 
