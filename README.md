@@ -61,7 +61,7 @@ This app was made with the intent to fulfill a class tradition. A few minutes be
 
 ### Metronome
 [Metronome](https://github.com/Underdoneboar4/Metronome)
-Metronome was made mostly for fun. It can detect BPM from someone tapping, play a gif and sound based on a selected BPM, and functions well, aside from higher BPM's making it so that playing the sound every beat doesn't work because of the sound's length. I learned a lot about sound and timing in Xcode with this project, along with sliders, which I had never worked with before.
+Metronome was made mostly for fun. It can detect BPM from someone tapping, play an animation and sound based on a selected BPM, and functions well, aside from higher BPM's making it so that playing the sound every beat doesn't work because of the sound's length. I learned a lot about sound and timing in Xcode with this project, along with sliders, which I had never worked with before. Finding image and sound sources was a bit of a challenge, and the current assets may be changed soon.
 
 ### Rush Hour
 [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)
