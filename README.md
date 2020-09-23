@@ -53,11 +53,10 @@ WARNING! THIS IS NOT AN IPHONE APP AND IS IN JAVA
 This program is another one I made in my spare time. Through a series of prints and user imputs, it is able to determine the nominal value and a +-5% tolerance for an electrical resistor when the color bands of said resistor are given.
 
 ## 2019-2020
-Please note: the 2019-2020 session is still ongoing
 
 ### Brightside
 [Brightside](https://github.com/VarunSaini02/Brightside)
-This app was made with the intent to fulfill a class tradition. A few minutes before class ended, we would play a song that would end as the bell rang, as a way to be able to reach a proper stopping point. Last year, it was done manually. This app does it automatically, using notifications and a song cut into bits that can fit in a notification. playing one after the other. The user can do things like set the song to play at a certain time (including a hard-coded end of class) or right away. I learned much more about Date objects through this project and got even more experience with them since my work on EPHS. Audio and permissions were other areas of learning for me during this project. 
+This app was made with the intent to fulfill an iOS class tradition. A few minutes before class ended, we would play a song that would end as the bell rang, as a way to be able to reach a proper stopping point. Last year, it was done manually. This app does it automatically, using notifications and a song cut into bits that can fit in a notification. playing one after the other. The user can do things like set the song to play at a certain time (including a hard-coded end of class) or right away. I learned much more about Date objects through this project and got even more experience with them since my work on EPHS. Audio and permissions were other areas of learning for me during this project. 
 
 ### Metronome
 [Metronome](https://github.com/Underdoneboar4/Metronome)
@@ -65,7 +64,7 @@ Metronome was made mostly for fun. It can detect BPM from someone tapping, play 
 
 ### Rush Hour
 [Rush Hour](https://github.com/VarunSaini02/Rush-Hour)
-Rush Hour is a work-in-progress simulation of the board game that goes by the same name. This project will involve a lot of storyboard and controller interactions, as the game is based on many image views whose image signify which piece type is occupying a space.
+Rush Hour is a working simulation of the board game that goes by the same name. This project involves a lot of storyboard and controller interactions, as the game is based on many image views whose image signify which piece type is occupying a space.
 
 ### Bingo Card
 [Bingo Card](https://github.com/Underdoneboar4/-BingoCard)
