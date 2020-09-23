@@ -68,5 +68,5 @@ Rush Hour is a working simulation of the board game that goes by the same name. 
 
 ### Bingo Card
 [Bingo Card](https://github.com/Underdoneboar4/-BingoCard)
-My first solo project of the semester, Bingo Card simulates a bingo card, as the name implies. This was born form the Rush Hour project, and serves as more of a proof-of-concept at this stage due to the sheer volume of images needed to display the bingo numbers. My main learnings were with more behind-the-scenes work, like figuring out how to number every space properly with recursion and naming variables well to keep it coherent.
+Bingo Card simulates a bingo card, as the name implies. This was born form the Rush Hour project, and serves as more of a proof-of-concept at this stage due to the sheer volume of images needed to display the bingo numbers. My main learnings were with more behind-the-scenes work, like figuring out how to number every space properly with recursion and naming variables well to keep it coherent.
 
